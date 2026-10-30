@@ -1,17 +1,17 @@
-﻿# MyRajya â€” Prototype Screenshots
+﻿# MyRajya Prototype Screenshots
 
 ### *My State. My Voice. My Governance.*
 
-> A full-stack civic engagement platform connecting 12 Crore+ Maharashtra citizens to local government, NGOs, and their communities â€” across all 36 districts.
+> A full-stack civic engagement platform connecting 12 Crore+ Maharashtra citizens to local government, NGOs, and their communities  across all 36 districts.
 
-**Seva First Innovation Challenge Â· 2026**
+**Seva First Innovation Challenge · 2026**
 Sub-Theme: AI-powered Citizen Services & Smart Governance
 
 ---
 
 ## About MyRajya
 
-MyRajya is a district-level civic engagement app built for Maharashtra â€” available on Android (Flutter) and Web (React). It brings together government opportunities, community posts, NGO events, civic complaints, local services, group chats, and youth engagement tools in one Marathi-first, district-aware platform.
+MyRajya is a district-level civic engagement app built for Maharashtra  available on Android (Flutter) and Web (React). It brings together government opportunities, community posts, NGO events, civic complaints, local services, group chats, and youth engagement tools in one Marathi-first, district-aware platform.
 
 Built solo from the ground up: backend API (Node.js + PostgreSQL), React web app, Flutter mobile app, and admin dashboard.
 
@@ -45,7 +45,7 @@ Built solo from the ground up: backend API (Node.js + PostgreSQL), React web app
 
 ---
 
-### Mobile App (Flutter â€” Android)
+### Mobile App (Flutter  Android)
 
 ### Home Screen
 
@@ -127,25 +127,25 @@ Built solo from the ground up: backend API (Node.js + PostgreSQL), React web app
 
 ## Features Built
 
-- **Home Feed** â€” District selector, Gov Opportunities, Jagruk Nagrik leaderboard, Community Feed, Latest News
-- **Gov Opportunities** â€” MPSC exams, government jobs, scholarships, results (district-targeted)
-- **Community Posts** â€” Create posts with photos, location, category
-- **Events** â€” NGO-organized community events with registration
-- **Civic Complaints** â€” Submit and track complaints with geo-tag and photo proof
-- **District Services Map** â€” Hospitals, schools, govt offices with Google Maps navigation
-- **Group Chats** â€” WhatsApp-style community groups with posts, events, files, real-time chat
-- **Personal Messages** â€” Direct messaging between users
-- **Jagruk Nagrik** â€” Gamified civic points system â€” district leaderboard, badges, digital certificates
-- **User Profiles** â€” Follow system, civic score, badges
-- **Multilingual** â€” Marathi, Hindi, English with in-app language switcher
-- **Dark Theme** â€” Full dark mode support
+- **Home Feed**  District selector, Gov Opportunities, Jagruk Nagrik leaderboard, Community Feed, Latest News
+- **Gov Opportunities**  MPSC exams, government jobs, scholarships, results (district-targeted)
+- **Community Posts**  Create posts with photos, location, category
+- **Events**  NGO-organized community events with registration
+- **Civic Complaints**  Submit and track complaints with geo-tag and photo proof
+- **District Services Map**  Hospitals, schools, govt offices with Google Maps navigation
+- **Group Chats**  WhatsApp-style community groups with posts, events, files, real-time chat
+- **Personal Messages**  Direct messaging between users
+- **Jagruk Nagrik**  Gamified civic points system  district leaderboard, badges, digital certificates
+- **User Profiles**  Follow system, civic score, badges
+- **Multilingual**  Marathi, Hindi, English with in-app language switcher
+- **Dark Theme**  Full dark mode support
 
 ## Features In Development
 
 - Seva Squads (youth volunteer groups)
 - School & College Civic Module
 - District Digital Noticeboard
-- Govt â†” Citizen two-way dialogue
+- Govt â† Citizen two-way dialogue
 - Jan Jagruti Feed (community awareness videos)
 - News & E-Paper Hub
 - District Sports Board (kabaddi, kho kho, cricket & local championships)
@@ -169,12 +169,12 @@ All **36 Maharashtra districts** across 6 divisions:
 
 ## Applicant
 
-**Rohit Wangnekar** â€” Full-Stack Developer & Founder
+**Rohit Wangnekar**  Full-Stack Developer & Founder
 Built solo: backend API, React web app, Flutter mobile app, admin dashboard.
 
-*Seva First Innovation Challenge Â· October 2026*
+*Seva First Innovation Challenge · October 2026*
 
 ---
 
-> *MyRajya â€” because every citizen of Maharashtra deserves to own their state, raise their voice, and hold their governance accountable.*
+> *MyRajya  because every citizen of Maharashtra deserves to own their state, raise their voice, and hold their governance accountable.*
 
