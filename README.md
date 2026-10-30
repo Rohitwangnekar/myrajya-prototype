@@ -19,6 +19,34 @@ Built solo from the ground up: backend API (Node.js + PostgreSQL), React web app
 
 ## Screenshots
 
+---
+
+### Web App (React + Vite)
+
+#### Home Page
+
+| Hero | Features | Section 2 |
+|---|---|---|
+| ![Web Home Hero](screenshots/web-01-home-hero.png) | ![Web Features](screenshots/web-02-home-features.png) | ![Web Section 2](screenshots/web-03-home-section-2.png) |
+
+| Section 3 | Section 4 | Section 5 |
+|---|---|---|
+| ![Web Section 3](screenshots/web-04-home-section-3.png) | ![Web Section 4](screenshots/web-05-home-section-4.png) | ![Web Section 5](screenshots/web-06-home-section-5.png) |
+
+#### Feature Pages
+
+| Gov Opportunities | Events | Jagruk Nagrik |
+|---|---|---|
+| ![Gov Opportunities](screenshots/web-07-gov-opportunities.png) | ![Events](screenshots/web-08-events.png) | ![Jagruk Nagrik](screenshots/web-09-jagruk-nagrik.png) |
+
+| Jan Jagruti Feed | News Hub | District Noticeboard | Seva Squads |
+|---|---|---|---|
+| ![Jan Jagruti](screenshots/web-10-jan-jagruti.png) | ![News](screenshots/web-11-news.png) | ![Noticeboard](screenshots/web-12-noticeboard.png) | ![Seva Squad](screenshots/web-13-seva-squad.png) |
+
+---
+
+### Mobile App (Flutter — Android)
+
 ### Home Screen
 
 | District Selector | Gov Opportunities | Community Feed | News Feed |
